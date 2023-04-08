@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  
+  --primarycolor: #13262F;
+  --secondarycolor: #e9e6ff;
+  --textcolor: rgba(255, 255, 255, 0.87);
+}
